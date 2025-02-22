@@ -14,6 +14,6 @@ Here is the structure of this repository.
 |-- **Norm_TF.py**: preprocessing utility \
 |-- **Analysis_YSC.py**: auxiliary methods for DBN analysis \
 |-- **Sim_YSC.py**: embryonic dynamics simulator \
-|-- **Visual_YSC.py**: visualization methods \
+|-- **Visual_YSC.py**: visualization methods
 
 
