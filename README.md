@@ -9,7 +9,7 @@ Here is the structure of this repository.
 |&emsp; |-- **Yap_Cdx2**: data for YAP-CDX2 \
 |&emsp; |-- **Yap_Sox2**: data for YAP-SOX2 \
 |-- **Sox2_for_YSC.ipynb**: dynamic Bayesian network analysis on YAP-SOX2 data; should be run first \
-|-- **Cdx2_for_YSC.ipynb**: dynamic Bayesian network analysis on YAP-CDX2 data and data fusion to obtain joint YAP-SOX2-CDX2; should be run after  \
+|-- **Cdx2_for_YSC.ipynb**: dynamic Bayesian network analysis on YAP-CDX2 data and data fusion to obtain joint YAP-SOX2-CDX2 dynamics; should be run after YAP-SOX2 model is trained \
 |-- **Align_time.py**: preprocessing utility \
 |-- **Norm_TF.py**: preprocessing utility \
 |-- **Analysis_YSC.py**: auxiliary methods for DBN analysis \
